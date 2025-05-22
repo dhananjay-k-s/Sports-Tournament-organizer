@@ -45,6 +45,14 @@ A modern web application for managing sports tournaments, teams, and matches wit
 - Real-time updates and notifications
 - Interactive data tables and filters
 
+## Screenshort 
+<div>
+  <img  src = "https://github.com/dhananjay-k-s/Sports-Tournament-organizer/blob/main/Screenshots/Screenshot%202025-05-22%20203822.png" height = 600 />
+<img  src = "https://github.com/dhananjay-k-s/Sports-Tournament-organizer/blob/main/Screenshots/Screenshot%202025-05-22%20204026.png" height = 600 />
+<img  src = "https://github.com/dhananjay-k-s/Sports-Tournament-organizer/blob/main/Screenshots/Screenshot%202025-05-22%20203956.png" height = 600 />
+<img  src = "https://github.com/dhananjay-k-s/Sports-Tournament-organizer/blob/main/Screenshots/Screenshot%202025-05-22%20203903.png" height = 600 />
+</div>
+
 ## Technology Stack
 
 ### Frontend
